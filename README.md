@@ -2,10 +2,10 @@
 # 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
-- **Nombre completo:** [Escribe aquí tu nombre]
-- **Sección:** [Escribe aquí tu sección]
-- **Carrera:** Ingeniería en Informática
-- **Sede:** [Escribe aquí tu sede, por ejemplo: Puerto Montt]
+- **Nombre completo:** José Tomás Cornejo Cárdenas.
+- **Sección:** PRY2202-008A.
+- **Carrera:** Analista Programmador computacional.
+- **Sede:** Campus online.
 
 ---
 
@@ -24,7 +24,6 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ├── model/       # Clases de dominio (Persona, Cliente, Empleado, Producto, etc.)
 ├── data/        # Clases para la carga y lectura de archivos .txt
 ├── utils/       # Utilidades y validaciones
-└── interfaces/  # Interfaces implementadas por las clases
 ````
 
 ---
